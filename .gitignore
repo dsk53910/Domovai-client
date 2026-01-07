@@ -1,1 +1,70 @@
 .gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.bin/
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Local properties
+local.properties
+*.local
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Kotlin
+*.kotlin_module
+
+# Dependency directories
+lib/
+libs/
+
+# Generated files
+*.hprof
+
+# Maven
+target/
+
+# Others
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.orig
+*.class
+*.dex
+*.apk
+*.ap_
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Gradle cache
+gradle/
+!gradle/wrapper/
+!**/src/main/**
+!**/src/test/**
