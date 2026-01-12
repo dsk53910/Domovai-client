@@ -38,9 +38,9 @@ domovai-client/
 
 ## Requirements
 
-- Java 17+
-- Kotlin 1.9+
-- Gradle 8+
+- Java 25+
+- Kotlin 2.3+
+- Gradle 9.2+
 
 ## Installation
 
@@ -167,9 +167,9 @@ Run the example application to see the client in action:
 
 ## Dependencies
 
-- Spring Boot 3.3.0
+- Spring Boot 4.0.1
 - Spring WebFlux (reactive WebClient)
-- Jackson Kotlin Module
+- Jackson Kotlin Module 2.20.1
 - Reactor Core
 - Kotlin Coroutines Reactor
 - MockWebServer (for testing)
